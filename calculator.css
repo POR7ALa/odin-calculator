@@ -1,0 +1,31 @@
+.whole-calculator {
+    display: flex;
+    background-color: aqua;
+    font-size: 30px;
+}
+
+/* math operations */
+.operator {
+
+}
+
+/* numbers 0-9 */
+.num {
+
+}
+
+/* all clear button */
+.clear {
+
+}
+
+/* plus/minus button */
+.sign {
+
+}
+
+/* percent button */
+.percent {
+
+}
+
